@@ -1,2 +1,3 @@
-# Wireless_Car
-Created Wireless operated car using NodeMCU And android. I created this project to understand Wireless communication between sensors. Amazing project i had done. if you want source code of app as well as NodeMCU you can contact me on email dhruvgandhi75675@gmail.com. I had extended this project new addition of buzzer, led light and voice base command. Sample code is free of cost. additional code have some fix price for my hardwork. 
+#Wireless_Car #NodeMCU #Wireless_Sensor #sensors
+if you want source code of app as well as NodeMCU you can contact me on email dhruvgandhi75675@gmail.com. 
+Sample code is free of cost.
